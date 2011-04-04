@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Lejos">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/lejos_nxj/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/lejos_nxj/lib/pccomm.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/lejos_nxj/lib/jtools.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/lejos_nxj/lib/pctools.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/lejos_nxj/lib/classes.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/lejos_nxj/3rdparty/lib/bluecove.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/lejos_nxj/3rdparty/lib/commons-cli.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/lejos_nxj/3rdparty/lib/bcel-src.zip!/bcel-5.2/src/java" />
+      <root url="jar://$USER_HOME$/Downloads/lejos_nxj/3rdparty/lib/bluecove-gpl.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/lejos_nxj/3rdparty/lib/bcel.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/lejos_nxj/3rdparty/lib/cpptasks.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/lejos_nxj/lib" recursive="false" />
+  </library>
+</component>
